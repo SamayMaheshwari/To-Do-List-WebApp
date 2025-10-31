@@ -1,0 +1,26 @@
+.todo{
+    width: 100%;
+    min-height: 100vh;
+    max-height: auto;
+    position: relative;
+}
+.todo-inputs{
+    border: none;
+    outline: none;
+}
+.todo-inputs-div{
+    
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#textarea{
+    display: none;
+}
+.add-btn{
+    border: none;
+    outline: none;
+    background-color: rgb(255,0,0, 0.836);
+    border-radius: 10px;
+    color: white !important;
+    font-weight: bold;
+}
